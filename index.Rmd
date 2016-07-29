@@ -1,0 +1,49 @@
+---
+title       : Test title
+subtitle    : subtitle
+author      : me
+job         : stuff
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [bootstrap, quiz]            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+--- .class #id 
+
+## Slide 2
+
+Maximizing your vaction experience
+
+--- .class #id 
+## Slide 3
+How we did it
+
+Old Faithful data set in R
+
+Linear Model function
+lm(eruptions~waiting, data=faithful)
+
+
+--- &radio
+## Slide 4
+
+Do you like the app? 
+
+1. _Yes_
+2. No
+
+*** .hint 
+Of course you do!
+
+*** .explanation 
+No explanation required
+
+
+
+--- .class #id 
+## Slide 5
+Acknowledgements
